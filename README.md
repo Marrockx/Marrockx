@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on *React and Open-Source Projects*
 - 💬 Ask me about *HTML, CSS, SASS,JavaScript*
-- 📫 How to reach me *mariam.adekola10@gmail.com or moadekola@student.oauife.edu.ng*
+- 📫 How to reach me *mariam.adekola10@gmail.com*
 - ⚡ Fun fact *I love baking*
 
 <h3 align="left">Connect with me:</h3>
