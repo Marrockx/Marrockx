@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marrockx&label=Profile%20views&color=0e75b6&style=flat" alt="marrockx" /> </p> -->
 
-- 🌱 I’m currently learning **SCSS, Vanilla JS, React JS**
+- 🌱 I’m currently learning *SCSS, Vanilla JS, React JS*
 
-- 👯 I’m looking to collaborate on **React and Open-Source Projects**
-- 💬 Ask me about **HTML, CSS, SASS,JavaScript**
-- 📫 How to reach me **mariam.adekola10@gmail.com or moadekola@student.oauife.edu.ng**
-- ⚡ Fun fact **I love baking**
+- 👯 I’m looking to collaborate on *React and Open-Source Projects*
+- 💬 Ask me about *HTML, CSS, SASS,JavaScript*
+- 📫 How to reach me *mariam.adekola10@gmail.com or moadekola@student.oauife.edu.ng*
+- ⚡ Fun fact *I love baking*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
