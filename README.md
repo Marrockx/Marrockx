@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/marrockx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marrockx" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/marrockx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marrockx" /></a></p><br><br> -->
