@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *SCSS, Angular*
 
 - 👯 I’m looking to collaborate on *Angular and Open-Source Projects*
-- 💬 Ask me about *HTML, CSS, SASS,JavaScript, Angular*
+- 💬 Ask me about *HTML, CSS, SASS,JavaScript, React, Angular*
 - 📫 How to reach me *mariam.adekola10@gmail.com*
 - ⚡ Fun fact *I love baking*
 
