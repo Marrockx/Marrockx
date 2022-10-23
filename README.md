@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marrockx&label=Profile%20views&color=0e75b6&style=flat" alt="marrockx" /> </p> -->
 
-- 🌱 I’m currently learning *SCSS, Angular*
+- 🌱 I’m currently learning *C, Angular*
 
 - 👯 I’m looking to collaborate on *Angular and Open-Source Projects*
 - 💬 Ask me about *HTML, CSS, SASS,JavaScript, React, Angular*
