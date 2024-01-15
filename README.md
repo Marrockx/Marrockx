@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mariam Adekola <a href="https://portfolio-resume-devmariam.netlify.app" style="font-size: 16px !important;">(Portfolio)</a></h1>
-<h3 align="center">A passionate frontend developer and computer engineering student from Nigeria</h3>
+<h3 align="center">A passionate frontend developer and computer engineer from Nigeria</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marrockx&label=Profile%20views&color=0e75b6&style=flat" alt="marrockx" /> </p> -->
 
