@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mariam Adekola <a href="https://portfolio-resume-devmariam.netlify.app" style="font-size: 16px !important;">(Portfolio)</a></h1>
+<h1 align="center">Hi 👋, I'm Mariam Adekola <!-- <a href="https://portfolio-resume-devmariam.netlify.app" style="font-size: 16px !important;">(Portfolio)</a>--></h1>
 <h3 align="center">A passionate frontend developer and computer engineer from Nigeria</h3>
 
 <!-- <a href="https://gitroll.io/profile/uNdHq5PB6WvberdXUWsOk8v6S5un1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNdHq5PB6WvberdXUWsOk8v6S5un1" alt="GitRoll Profile Badge"/></a> -->
