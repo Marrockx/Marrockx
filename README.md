@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mariam Adekola <a href="https://portfolio-resume-devmariam.netlify.app" style="font-size: 16px !important;">(Portfolio)</a></h1>
 <h3 align="center">A passionate frontend developer and computer engineer from Nigeria</h3>
 
-<a href="https://gitroll.io/profile/uNdHq5PB6WvberdXUWsOk8v6S5un1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNdHq5PB6WvberdXUWsOk8v6S5un1" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/uNdHq5PB6WvberdXUWsOk8v6S5un1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNdHq5PB6WvberdXUWsOk8v6S5un1" alt="GitRoll Profile Badge"/></a> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marrockx&label=Profile%20views&color=0e75b6&style=flat" alt="marrockx" /> </p> -->
 
-- 🌱 I’m currently learning *C, Angular*
-
-- 👯 I’m looking to collaborate on *Angular and Open-Source Projects*
-- 💬 Ask me about *HTML, CSS, SASS,JavaScript, React, Angular*
+- 🔭 I’m currently working on *ASIC Design/Verification Projects*
+- 🌱 I’m currently learning *Verilog, System Verilog*
+- 👯 I’m looking to collaborate on *Angular, Hardware Design and Open-Source Projects*
+- 💬 Ask me about *JavaScript, React, Angular, VHDL*
 - 📫 How to reach me *mariam.adekola10@gmail.com*
 - ⚡ Fun fact *I love baking*
 
